@@ -14,3 +14,5 @@ Watch the youtube tutorial
 1.open index.html in your browser.
 
 2.added local development.
+
+3.Step 3
